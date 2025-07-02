@@ -1,5 +1,4 @@
-# FRONTEND-API6S
-Plataforma de avaliação de IA onde usuários comparam respostas de dois LLMs diferentes, seguindo critérios pré-estabelecidos. Seu feedback é coletado e usado para treinamento por RLHF, aprimorando os modelos com dados humanos.
+#### Plataforma de avaliação de IA onde usuários comparam respostas de dois LLMs diferentes, seguindo critérios pré-estabelecidos. Seu feedback é coletado e usado para treinamento por RLHF, aprimorando os modelos com dados humanos.
 
 ## 🚀 Tecnologias Utilizadas
 
