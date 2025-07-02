@@ -120,11 +120,3 @@ A plataforma estará disponível em:
 http://127.0.0.1:5173
 ```
 ---
-
-## ⚠️ Importante
-
-Para o funcionamento correto do sistema, é necessário que: </br>
-✅ O servidor backend esteja em execução simultanenea ao frontend. </br>
-🔗 Acesse o **[repositório](https://github.com/FATEC-FULLSTACK/BACKEND-API6S)** do BACKEND-API6S para instruções detalhadas de configuração e execução.
-
----
