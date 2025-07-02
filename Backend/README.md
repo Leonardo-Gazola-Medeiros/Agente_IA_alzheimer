@@ -53,14 +53,7 @@ Antes de instalar, certifique-se de ter os seguintes requisitos:
 
 ---
 
-## ⚙️ Instalação e Configuração
-
-### 🔹 Clone o repositório
-
-```bash
-git clone https://github.com/FATEC-FULLSTACK/BACKEND-API6S.git
-cd BACKEND-API6S
-```
+## ⚙️ Configuração
 
 ### 🔹 Criação do ambiente virtual
 
