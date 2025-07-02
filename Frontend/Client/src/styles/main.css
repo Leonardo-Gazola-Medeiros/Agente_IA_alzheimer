@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-emerald-breeze-100: oklch(0.98 0.07 145);
+  --color-emerald-breeze-200: oklch(0.94 0.15 155);
+  --color-emerald-breeze-300: oklch(0.88 0.22 165);
+  --color-emerald-breeze-400: oklch(0.8 0.25 175);
+  --color-emerald-breeze-500: oklch(0.72 0.28 185);
+  --color-emerald-breeze-600: oklch(0.6 0.3 195);
+
+  --background-color: #181818;
+  --text-color: #e0e0e0;
+  --text-second-color: #cccccc;
+}

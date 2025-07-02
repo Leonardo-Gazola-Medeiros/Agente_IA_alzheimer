@@ -1,0 +1,11 @@
+@import './base.css';
+@import 'tailwindcss';
+
+@theme {
+  --color-avocado-100: oklch(0.99 0 0);  /* Cor mais clara */
+  --color-avocado-200: oklch(0.98 0.08 120.00);  /* Um verde mais suave */
+  --color-avocado-300: oklch(0.94 0.15 130.00);  /* Verde mais saturado */
+  --color-avocado-400: oklch(0.92 0.25 140.00);  /* Verde com mais saturação */
+  --color-avocado-500: oklch(0.84 0.30 150.00);  /* Verde médio */
+  --color-avocado-600: oklch(0.53 0.25 160.00);  /* Verde mais escuro */
+}
