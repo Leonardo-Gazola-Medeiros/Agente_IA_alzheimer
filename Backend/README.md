@@ -1,6 +1,4 @@
-# BACKEND-API6S
-
-Um chatbot baseado em RAG (Retrieval-Augmented Generation) utilizando **FastAPI**, **LangChain**, **OpenAI GPT-4o** e **Supabase** como banco de vetores.
+### Um chatbot baseado em RAG (Retrieval-Augmented Generation) utilizando **FastAPI**, **LangChain**, **OpenAI GPT-4o** e **Supabase** como banco de vetores.
 
 ---
 
