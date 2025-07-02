@@ -97,8 +97,8 @@ FRONTEND-API6S
 ### 🔹 Clone o repositório
 
 ```bash
-git clone https://github.com/FATEC-FULLSTACK/FRONTEND-API6S.git
-cd FRONTEND-API6S/Client
+git clone https://github.com/Leonardo-Gazola-Medeiros/Agente_IA_alzheimer.git
+cd Frontend/Client
 ```
 
 ### 🔹 Instale as dependências
